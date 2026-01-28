@@ -1,8 +1,6 @@
 ## Brainwave Computing
 
-**Infrastructure and tools for real-time perception systems.**
-
-Brainwave Computing is a small consulting and engineering practice focused on perception software and the systems around it — sensors, pipelines, models, and the tooling needed to make them reliable in production.
+Brainwave Computing is a small consulting and engineering practice focused on perception software — sensors, pipelines, models, and the tooling needed to make them reliable in production.
 
 ### What we work on
 - Camera and sensor pipelines  
@@ -15,4 +13,4 @@ Brainwave Computing is a small consulting and engineering practice focused on pe
 The purpose of software is to help humans understand what a machine is doing. Clarity and a commitment to craft are therefore non-negotiable.
 
 ### Get in touch
-- Email: hello@brainwavecomputing.co
+- hello@brainwavecomputing.co
