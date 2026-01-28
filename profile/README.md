@@ -19,4 +19,4 @@ The purpose of software is to help humans understand what a machine is doing. Cl
 - FarmLogs (agriculture technology)
 
 ### Get In Touch
-- hello@brainwavecomputing.co
+hello@brainwavecomputing.co
