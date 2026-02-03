@@ -11,12 +11,5 @@ Brainwave Computing is a small consulting and engineering practice focused on in
 ### How We Think
 The purpose of software is to help humans understand what a machine is doing. Clarity and a commitment to craft are therefore non-negotiable.
 
-### Past Work
-- Stereolabs (real-time perception SDK, applications, and tools)
-- Brain Simulation Lab, Charité (GDPR-compliant scientific platform)
-- Robinhood (financial markets and crypto)
-- Pandora (music and media)
-- FarmLogs (agriculture technology)
-
 ### Get In Touch
 - hello@brainwavecomputing.co
