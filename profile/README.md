@@ -12,4 +12,4 @@ Brainwave Computing is a small consulting and engineering practice focused on in
 The purpose of software is to help humans understand what a machine is doing. Clarity and a commitment to craft are therefore non-negotiable.
 
 ### Get In Touch
-- hello@brainwavecomputing.co
+- hello@brainwave.sh
