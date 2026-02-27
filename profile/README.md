@@ -1,15 +1,18 @@
-## Brainwave Computing
-Brainwave Computing is a small consulting and engineering practice focused on infrastructure for real-time perception systems — sensors, pipelines, models, and the tooling needed to make them reliable in production.
+## Brainwave
+A workshop exploring autonomous compute.
 
-### What We Work On
-- Camera and sensor pipelines
-- Edge inference for perception models
-- Real-time and heterogeneous compute
-- Telemetry for robotic deployments
-- Cross-platform UI, including 3D graphics
+### How we think
+We're a small workshop building at the boundary of hardware and software.
 
-### How We Think
-The purpose of software is to help humans understand what a machine is doing. Clarity and a commitment to craft are therefore non-negotiable.
+Our work spans new foundations for heterogeneous compute, infrastructure for real-time perception systems, and efficient inference for multi-modal models.
 
-### Get In Touch
-- hello@brainwave.sh
+Clarity and a commitment to craft are non-negotiable.
+
+We work close to the metal, and we're drawn to problems that reward patience and an absurd attention to detail. We use the right tool for the job. If it doesn't exist, we build it.
+
+We invest in each other.
+
+We're not in a hurry.
+
+### Get in touch
+If this resonates, I'd like to hear from you: christian@brainwave.sh
