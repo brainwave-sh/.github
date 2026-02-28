@@ -4,7 +4,7 @@ A workshop exploring autonomous compute.
 **How we think**  
 We're a small workshop building at the boundary of hardware and software.
 
-Our work spans new foundations for heterogeneous compute, infrastructure for real-time perception systems, and efficient inference for multi-modal models.
+Our work spans new foundations for heterogeneous compute, infrastructure for realtime perception, and efficient inference for multimodal models.
 
 Clarity and a commitment to craft are non-negotiable.
 
