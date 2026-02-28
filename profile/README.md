@@ -19,4 +19,4 @@ We're not in a hurry.
 - [Mosaic](https://github.com/brainwave-sh/mosaic) – Image processing in Mojo 
 
 #### Get in touch
-If this resonates, I'd like to hear from you: christian@brainwave.sh
+If this resonates: christian@brainwave.sh
