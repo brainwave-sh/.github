@@ -16,7 +16,7 @@ We invest in each other.
 We're not in a hurry.
 
 #### Projects
-- [Mosaic](https://github.com/brainwave-sh/mosaic) — Image processing in Mojo 
+- [Mosaic](https://github.com/brainwave-sh/mosaic) — An image processing library in Mojo 
 
 #### Get in touch
 If this resonates: christian@brainwave.sh
