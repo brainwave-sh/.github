@@ -1,17 +1,14 @@
 ## Brainwave
 A workshop exploring autonomous compute.
 
-#### How we think
-We're a small workshop building at the boundary of hardware and software.
+We started Brainwave because we wanted to build things we actually believe in, with people we actually trust, at a pace that lets us get it right.
 
-Our work spans:
+We work at the boundary of hardware and software:
 - Infrastructure for realtime perception
 - Efficient inference for multimodal models
 - New foundations for heterogeneous compute
 
 Clarity and a commitment to craft are non-negotiable.
-
-We invest in each other.
 
 We're not in a hurry.
 
