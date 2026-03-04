@@ -8,7 +8,7 @@ We work at the boundary of hardware and software:
 - Efficient inference for multimodal models
 - New foundations for heterogeneous compute
 
-Clarity and a commitment to craft are non-negotiable.
+We think clarity and a commitment to craft are non-negotiable.
 
 We're not in a hurry.
 
